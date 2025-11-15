@@ -48,6 +48,5 @@ Sample 2
 
 ![sample-input-output-2.png](sample-cases/sample-input-output-2.png)
 
-
 ### Source code
 See [Q3.java](Q3.java)
