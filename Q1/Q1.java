@@ -66,7 +66,7 @@ public class Q1 {
                     break;
                 case 'M':
                     fineRate = 0.20;
-                    price = ((double) days *fineRate);
+                    price = ((double) days * fineRate);
                     break;
                 default:
                     if (days <= 15) {
@@ -76,7 +76,7 @@ public class Q1 {
                         fineRate = 10.0;
                         penalty = 200.0;
                     }
-                    price = ((double) days *fineRate)+penalty;
+                    price = ((double) days * fineRate) + penalty;
                     break;
                 }
 
